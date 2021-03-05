@@ -1,5 +1,25 @@
+/*Mis modificaciones arriba*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+.colorTextMenu{
+  color:#00003b;
+}
+
+.typeTextLogo{
+  font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+/*Mis modificaciones arriba*/
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
