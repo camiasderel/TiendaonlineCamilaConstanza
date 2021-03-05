@@ -6,7 +6,7 @@ function App() {
   return (
   <div className="App">
      <NavBar />   
-    <h2>Nuestras carpas Tipis</h2>
+    <h2>Nuestras carpas Tipis.</h2>
 
   </div>)
 
