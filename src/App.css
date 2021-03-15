@@ -1,22 +1,31 @@
-/*Mis modificaciones arriba*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
+
+}
+/*Mis modificaciones Luego pasar al archivo correspondiente*/
+.StyleItemListContainer{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
 }
 
-.colorTextMenu{
-  color:#00003b;
+.boxItem{
+  width: 200px;
+  height: 200px;
+  border: #282c34 solid;
+  border-radius: 5%;
+  margin-top:50px;
+  margin-left: 50px;
+  padding: 20px;
 }
 
-.typeTextLogo{
+.LogoFont{
   font-family: 'Dancing Script', cursive;
-  text-decoration: overline;
+  font-size: 30px;
 }
-
-
-
 
 /*Mis modificaciones arriba*/
 .App {
