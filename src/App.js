@@ -9,7 +9,7 @@ function App() {
   <div className="App">
 
     <NavBar />   
-   <ItemListContainer />
+   {/* <ItemListContainer /> */}
 
    <div class="boxItem">
     <button type="button" class="btn btn-outline-dark">-</button>

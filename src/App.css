@@ -7,9 +7,10 @@
 /*Mis modificaciones Luego pasar al archivo correspondiente*/
 .StyleItemListContainer{
   text-align: center;
-  margin-top: 50px;
+  margin-top: 5px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 40px;
+  font-size: 30px;
+  border:#282c34 solid;
 }
 
 .boxItem{
